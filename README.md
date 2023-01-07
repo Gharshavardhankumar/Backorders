@@ -79,5 +79,11 @@ OVRA: Amount of stock orders overdue (OVRA);
 RSK-: General risk flags associated to the material;
 
 BO: Product went on backorder   
-     
+  
+# Libraries
+pandas
+matplotlib
+seaborn
+scikit-learn  
+
 
