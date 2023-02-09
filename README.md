@@ -5,7 +5,7 @@ Is to identify products at risk of backorder before the event occurs so that bus
 * A backorder generally indicates that customer demand for a product or service exceeds a company’s capacity to supply it.
 * Back orders are both good and bad. Strong demand can drive back orders, but so can suboptimal planning.
 # Dowload dataset: 
-Backorders.csv
+Backorders.csv :https://github.com/Gharshavardhankumar/Predict-Product-Backorders/blob/main/BackOrders.csv
  # Data description
 * Data file contains the historical data for the 8 weeks prior to the week we are trying to predict. The data was taken as weekly snapshots at the start of each week. Columns are defined as follows:
 * sku - Random ID for the product
